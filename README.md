@@ -1,7 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/361449d715330d0cc1a1af6d72ed8be6744d8c3d9719a8b76836714194e3e419/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966)
 <h1 align="left">Hi♨, I'm Quree Kumari</h1>
-<h3 align="left">I am a Backend Engineer thrive on solving challenges to enhance performance and Scalability.</h3>
-<img align="center" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:750/1*vKP8xZhiF22wXRh92oc_xw@2x.jpeg">
+<h3 align="left">I am a Backend Engineer thrive on solving challenges to enhance performance and Scalability. Follow : (Learn->Explore->Create)^</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qureekumari19&label=Profile%20views&color=0e75b6&style=flat" alt="qureekumari19" /> </p>
 
